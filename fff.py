@@ -1,13 +1,12 @@
-TODO 1 Enter your name and submission date
-Name :
-Delivery Date :
+""""#TODO 1 Enter your name and submission date
+#Name :
+#Delivery Date :
 """
 
 
 # TODO 2 Define Course Class and define constructor with
-# course_id (generated using uuid4) ,
-# course name (user_input) and
-# course mark (user_input)
+
+
 
 
 class Student:
